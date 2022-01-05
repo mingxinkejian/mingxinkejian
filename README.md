@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome ming ming's github 👋
 
 <!--
 **mingxinkejian/mingxinkejian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingxinkejian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingxinkejian&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
